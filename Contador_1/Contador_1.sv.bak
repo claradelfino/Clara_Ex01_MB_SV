@@ -1,0 +1,7 @@
+`timescale 1ns/1ns 
+
+module Contador_1(
+	input logic clock, 
+					reset,
+	output logic [3:0] saida);
+	logic pos
